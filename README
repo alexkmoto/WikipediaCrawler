@@ -1,0 +1,1 @@
+A web crawler written in Node.js. Specifically designed to parse Wikipedia for information on actors and movies. Results are stored for querying. 
